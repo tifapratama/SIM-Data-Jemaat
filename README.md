@@ -11,7 +11,7 @@ SIM Data Jemaat adalah aplikasi open source yang dapat digunakan untuk Mengelola
 - [markdownlint](#markdownlint)
 - [License](#License)
 
-## ⭐ Fitur Utama ⭐
+## ⭐ Fitur Utama
 - Menambah, mengedit dan menghapus Data Jemaat
 - Nenambah, mengedit dan menghapus Data Distrik dan Kelurahan
 - Mencari data berdasarkan kata kunci
