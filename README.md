@@ -4,8 +4,7 @@ SIM Data Jemaat adalah aplikasi open source yang dapat digunakan untuk Mengelola
 **Table of content:**
 
 - [Persyaratan](#Persyaratan)
-- [Prerequisites](#prerequisites)
-- [Get started](#get-started)
+- [Memulai Proyek](#Memulai-Proyek)
 - [Images](#images)
   - [`.images` directory](#images-directory)
   - [`pre-commit` hook](#pre-commit-hook)
@@ -23,7 +22,7 @@ SIM Data Jemaat adalah aplikasi open source yang dapat digunakan untuk Mengelola
 - Bahasa Pemrograman : C#
 - Database Sistem : SQLite
 
-## Get started
+## Memulai Proyek
 
 Download this repository to your local machine:
 
