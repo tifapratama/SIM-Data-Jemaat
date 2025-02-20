@@ -44,7 +44,7 @@ Regardless of where the markdown page is placed within the repository, all image
 
 `pre-commit` hook automatically detects the image files that are not referenced anywhere within the repository anymore and removes them.
 
-Proyek ini dilisensikan dibawah lisensi MIT. Silakan baca [LICENSE][.LICENSE] untuk detailnya.
+Proyek ini dilisensikan dibawah lisensi MIT. Silakan baca [LICENSE](.LICENSE) untuk detailnya.
 
 ```shell
 chmod 755 .images/untrack-unused-images.sh; \
