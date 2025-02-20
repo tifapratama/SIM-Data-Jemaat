@@ -3,7 +3,7 @@ SIM Data Jemaat adalah aplikasi open source yang dapat digunakan untuk Mengelola
 
 **Table of content:**
 
-- [Prerequisites](#prerequisites)
+- [Persyaratan](#Persyaratan)
 - [Prerequisites](#prerequisites)
 - [Get started](#get-started)
 - [Images](#images)
@@ -16,7 +16,7 @@ SIM Data Jemaat adalah aplikasi open source yang dapat digunakan untuk Mengelola
   - ["Markdown All in One" extension](#markdown-all-in-one-extension)
   - ["markdownlint" extension](#markdownlint-extension)
 
-## Prerequisites
+## Persyaratan
 
 - OS: Windows 10/11, Linux with Wine
 - IDE : Microsoft visual studio 2022 Community Edition
