@@ -2,7 +2,7 @@
 SIM Data Jemaat adalah aplikasi open source yang dapat digunakan untuk Mengelola Data Jemaat pada suatu Gereja.
 
 **Table of content:**
-
+- [Fitur Utama](#Fitur-Utama)
 - [Persyaratan](#Persyaratan)
 - [Memulai Proyek](#Memulai-Proyek)
 - [Images](#images)
@@ -11,6 +11,12 @@ SIM Data Jemaat adalah aplikasi open source yang dapat digunakan untuk Mengelola
 - [markdownlint](#markdownlint)
 - [License](#License)
 
+## Fitur Utama
+- Menambah, mengedit dan menghapus Data Jemaat
+- Nenambah, mengedit dan menghapus Data Distrik dan Kelurahan
+- Mencari data berdasarkan kata kunci
+- Melihat laporan presentase jumlah anggota Jemaat
+
 ## Persyaratan
 
 - OS: Windows 10/11, Linux with Wine
@@ -18,7 +24,7 @@ SIM Data Jemaat adalah aplikasi open source yang dapat digunakan untuk Mengelola
 - Bahasa Pemrograman : C#
 - Database Sistem : SQLite
 
-## Memulai Proyek
+## ✈️ Memulai Proyek
 
 Unduh repositori ini ke komputer anda :
 
