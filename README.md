@@ -40,7 +40,7 @@ Regardless of where the markdown page is placed within the repository, all image
 
 ![img](/.images/sample-image.png)
 
-### License
+### 🛡️ License
 
 `pre-commit` hook automatically detects the image files that are not referenced anywhere within the repository anymore and removes them.
 
