@@ -27,7 +27,7 @@ SIM Data Jemaat adalah aplikasi open source yang dapat digunakan untuk Mengelola
 Download this repository to your local machine:
 
 ```shell
-git clone (https://github.com/tifapratama/SIM-Data-Jemaat.git)
+git clone https://github.com/tifapratama/SIM-Data-Jemaat.git
 ```
 
 ## Images
